@@ -1,0 +1,1 @@
+D:\kawa\bin\kawa.bat -wbrowser="C:\Program Files\Firefox Developer Edition\firefox.exe %U"
