@@ -1,4 +1,4 @@
-kawa.bat - copy to c:\ for quick work. assumes everythings installed on D:
+an improved kawa.bat - copy to c:\kawa.bat for quick work. assumes firefox+kawa are on D: drive
 
 ~~~
 
